@@ -1,4 +1,4 @@
 let a=5;
 let b=4;
 let sum=a+b;
-console.log(sum);
+console.log(`the sum is=${sum}`);
